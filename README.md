@@ -1,3 +1,7 @@
+## description
+
+Full-stack planner-application 2024 by Red Group - https://www.youtube.com/watch?v=-7K_0NRLCu4&list=PLXkonRjGXZwy5Rv1uVZzVx64Rzb6ZYF2w&index=1&pp=iAQB
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
